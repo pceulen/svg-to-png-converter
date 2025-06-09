@@ -29,7 +29,7 @@ brew install librsvg
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/svg-to-png-converter.git
+git clone https://github.com/pceulen/svg-to-png-converter.git
 cd svg-to-png-converter
 ```
 
