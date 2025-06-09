@@ -1,0 +1,2 @@
+# No Python package dependencies required
+# This script uses system-installed tools (Inkscape or rsvg-convert)
